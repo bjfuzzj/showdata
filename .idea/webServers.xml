@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="833a8e7d-3e94-4db0-af96-5b1b111ea317" name="datashowsource" url="http://182.92.103.119">
+        <fileTransfer host="182.92.103.119" port="22" rootFolder="/data/wwwroot/pubsystem" accessType="SFTP" password="dff0dfc2dfcbdfc4dfcddf83df92df93df9edf9bdf99" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
