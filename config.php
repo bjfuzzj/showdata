@@ -53,6 +53,31 @@ $onlineInsertArray = array
 );
 
 
+$bussinessInsertArray = array
+(
+
+//  'ordernumber', // '序号',
+  'areacode', // '地区码',
+  'areaname', //'地区名',
+  'networktype', //'网络类型',
+  'customertype', // '客户类型',
+  'productname', //'产品名称',
+  'channelname', //'频道名称',
+  'suppliers', //'供应商',
+  'coproducttype', //'组合产品类型',
+  'iscoproduct', //'一级产品是否组合产品',
+  'childproductypes',//'子产品类型',
+  'isbasiccoproduct',//'基础产品是否组合产品',
+  'finaltype',//'结算类型',
+  'charge', //'资费',
+  'shopemployee',//'营业员',
+  'office',//'营业厅',
+  'seller',//'销售员',
+  'salesamount',//'销售金额',
+  'addednum',//'频道新增笔数',
+  'appendnum',//'频道续订笔数',
+  'ctime',//'创建时间',
+);
 
 
 $dayArray = array
